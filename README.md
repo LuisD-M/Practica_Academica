@@ -10,6 +10,7 @@ La metodología se basó en cuatro etapas clave: identificación de los componen
 necesarios para implementar el sistema, desarrollo y programación del controlador, diseño de la 
 estructura física para el montaje del hardware, y finalmente, pruebas de campo para ajustes de 
 calibración y validación. 
+
 Los resultados obtenidos incluyen un sistema que cumple con las 
 normativas y ofrece una solución confiable y precisa para la medición de la tensión de ruptura, 
 mejorando el desempeño de los empaques producidos por Alico SAS BIC. Este proyecto permitió
